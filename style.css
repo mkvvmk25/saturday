@@ -6,7 +6,7 @@
 
 body {
 	font-family: borel;
-	color: #d85210;
+	color: #000000;
 	line-height: 1.4;
 }
 
@@ -68,16 +68,16 @@ body {
 }
 
 .num {
-	color: rgb(58, 9, 235);
+	color: rgb(0, 0, 0);
 }
 
 .open {
-	color: #087f5b;
-	border-top: 5px solid #087f5b;
+	color: #000000;
+	border-top: 5px solid #4e5b57;
 }
 
 .open p:first-child {
-	color: #343a40;
+	color: #000000;
 }
 
 .open:hover .hidden-box {
